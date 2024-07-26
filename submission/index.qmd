@@ -18,7 +18,7 @@ author:
     email: Djamel.Ferhod@ish-lyon.cnrs.fr
     affiliations:
       - CNRS, LARHRA
- - name: Sebastian Flick
+  - name: Sebastian Flick
     email: sebastian.flick@unibe.ch
     affiliations:
       - Universität Bern
