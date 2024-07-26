@@ -22,27 +22,27 @@ author:
     email: sebastian.flick@unibe.ch
     affiliations:
       - Universität Bern
- - name: Tobias Hodel
+  - name: Tobias Hodel
     email: tobias.hodel@unibe.ch
     affiliations:
       - Universität Bern
- - name: David Knecht
+  - name: David Knecht
     email: david.knecht@kleiolab.ch
     affiliations:
       - Kleiolab GmbH
- - name: Gaétan Muck
+  - name: Gaétan Muck
     email: gaetan.muck@kleiolab.ch
     affiliations:
       - Kleiolab GmbH
- - name: Alexandre Perraud
+  - name: Alexandre Perraud
     email: alexandre.perraud@cnrs.fr
     affiliations:
       - CNRS, LARHRA
- - name: Morgane Pica
+  - name: Morgane Pica
     email: morgane.pica@ens-lyon.fr
     affiliations:
       - ENS Lyon, LARHRA
- - name: Pierre Vernus
+  - name: Pierre Vernus
     email: Pierre.VERNUS@msh-lse.fr
     affiliations:
       - MSH, LARHRA
