@@ -54,8 +54,7 @@ keywords:
   - Keyword 5 FAIR Data
 abstract: |
 This article explores the significance of the Geovistory platform in the context of the growing Open Science movement within the Humanities, particularly its role in facilitating the production and reuse of FAIR data. As funding agencies increasingly mandate the publication of research data in compliance with FAIR principles, researchers face the dual challenge of mastering new methodologies in data management and adapting to a digital research landscape. Geovistory provides a comprehensive research environment specifically designed to meet the needs of historians and humanists, offering intuitive tools for managing research data, establishing a collaborative Knowledge Graph, and enhancing scholarly communication. By integrating semantic methodologies in the development of a modular ontology, Geovistory fosters interoperability among research projects, enabling scholars to draw on a rich pool of shared information while maintaining control over their data. Additionally, the platform addresses the inherent complexities of historical information, allowing for the coexistence of diverse interpretations and facilitating nuanced digital analyses. Despite its promising developments, the Digital Humanities ecosystem faces challenges related to funding and collaboration. The article concludes that sustained investment and strengthened partnerships among institutions are essential for ensuring the longevity and effectiveness of initiatives like Geovistory, ultimately enriching the field of Humanities research.
-date: 07/26/2024
-date-format: "MMM D, YYYY"
+date: 07-26-2024
 bibliography: references.bib
 ---
 
